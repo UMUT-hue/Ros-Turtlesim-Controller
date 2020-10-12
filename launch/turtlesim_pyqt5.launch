@@ -1,4 +1,4 @@
 <launch>
     <node name="turtle" pkg="turtlesim" type="turtlesim_node" output="screen"/>
-	<node name="read_write" pkg="uav_pkg" type="read_write.py" output="screen"/>
+	<node name="read_write" pkg="ros_turtlesim_controller" type="read_write.py" output="screen"/>
 </launch>
