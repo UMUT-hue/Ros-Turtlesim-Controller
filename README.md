@@ -2,4 +2,6 @@
 
 https://www.youtube.com/watch?v=3MLq-lrSmMg&t=3s
 
-Eklenecek
+![alt text](https://github.com/UMUT-hue/Ros-Turtlesim-Controller/blob/main/img.png)
+
+Ros - pyqt5 - redis
